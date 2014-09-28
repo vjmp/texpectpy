@@ -1,0 +1,6 @@
+*.html
+*.pyc
+*.nok
+__pycache__/
+.cache/
+

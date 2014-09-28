@@ -1,0 +1,50 @@
+Calculator Lockdown: Calculator created.
+Calculator Lockdown: |o|        <new tape> |o|
+Calculator Lockdown: Pushing value -100.0 into stack.
+Calculator Lockdown: Pushing value 6.67 into stack.
+Calculator Lockdown: Pushing value 42.0 into stack.
+Calculator Lockdown: Pushing value 21.0 into stack.
+Calculator Lockdown: |o|   <start of tape> |o|
+Calculator Lockdown: |o|           -100.00 |o|
+Calculator Lockdown: |o|             +6.67 |o|
+Calculator Lockdown: |o|            +42.00 |o|
+Calculator Lockdown: |o|            +21.00 |o|
+Calculator Lockdown: |o|     <end of tape> |o|
+Calculator Lockdown: Changing precision to 4 decimals.
+Calculator Lockdown: |o|     <start of tape> |o|
+Calculator Lockdown: |o|           -100.0000 |o|
+Calculator Lockdown: |o|             +6.6700 |o|
+Calculator Lockdown: |o|            +42.0000 |o|
+Calculator Lockdown: |o|            +21.0000 |o|
+Calculator Lockdown: |o|       <end of tape> |o|
+Calculator Lockdown: pop returns (21.0,)
+Calculator Lockdown: pop returns (42.0,)
+Calculator Lockdown: Adding 42.0 to 21.0 yields 63.0.
+Calculator Lockdown: Pushing value 63.0 into stack.
+Calculator Lockdown: Pushing value 3.0 into stack.
+Calculator Lockdown: pop returns (3.0,)
+Calculator Lockdown: pop returns (63.0,)
+Calculator Lockdown: Substracting 63.0 from 3.0 yields 60.0.
+Calculator Lockdown: Pushing value 60.0 into stack.
+Calculator Lockdown: Pushing value 2.22 into stack.
+Calculator Lockdown: pop returns (2.22,)
+Calculator Lockdown: pop returns (60.0,)
+Calculator Lockdown: Multiplying 60.0 with 2.22 yields 133.20000000000002.
+Calculator Lockdown: Pushing value 133.2 into stack.
+Calculator Lockdown: pop returns (133.2,)
+Calculator Lockdown: pop returns (6.67,)
+Calculator Lockdown: Swapping 6.67 with 133.2.
+Calculator Lockdown: Pushing value 133.2 into stack.
+Calculator Lockdown: Pushing value 6.67 into stack.
+Calculator Lockdown: pop returns (6.67,)
+Calculator Lockdown: pop returns (133.2,)
+Calculator Lockdown: Dividing 133.2 by 6.67 yields 19.970014992503746.
+Calculator Lockdown: Pushing value 19.97 into stack.
+Calculator Lockdown: |o|     <start of tape> |o|
+Calculator Lockdown: |o|           -100.0000 |o|
+Calculator Lockdown: |o|            +19.9700 |o|
+Calculator Lockdown: |o|       <end of tape> |o|
+Calculator Lockdown: |o|          <new tape> |o|
+Calculator Lockdown: Calculator destroyed with stack:
+Calculator Lockdown: |o|     <start of tape> |o|
+Calculator Lockdown: |o|       <end of tape> |o|
